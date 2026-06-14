@@ -28,3 +28,15 @@ https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1,Caze TV 2k
 http://182.48.93.238:8080/live/screen.m3u8
+#EXTINF:-1,D Sports
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc_video_4_0_17641250.mp4?m=1745870459
+#EXTINF:-1,T Sports 
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1,PTV 
+http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,T Sports
+http://103.23.206.189/somoytv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BTV
+http://103.23.206.189/super-cricket/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Somoy TV
+https://nomawnoijl.gpcdn.net/akash/thunder/chunks.m3u8
