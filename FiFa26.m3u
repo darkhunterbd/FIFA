@@ -35,8 +35,11 @@ http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1,PTV 
 http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T Sports
-http://103.23.206.189/somoytv/tracks-v1a1/mono.m3u8
+http://103.23.206.189/tsportshd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BTV
-http://103.23.206.189/super-cricket/tracks-v1a1/mono.m3u8
+http://103.23.206.189/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Somoy TV
-https://nomawnoijl.gpcdn.net/akash/thunder/chunks.m3u8
+http://103.23.206.189/somoytv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TUDN
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc_audio_23_0_34485945.mp4?m=1710358558
+
