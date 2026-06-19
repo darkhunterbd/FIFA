@@ -16,7 +16,7 @@ http://103.23.206.189/tsportshd/tracks-v1a1/mono.m3u8
 http://103.23.206.189/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="somoy_tv" tvg-name="Somoy TV" tvg-logo="https://assets-prod.services.toffeelive.com//Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="News Channel",Somoy TV
 http://103.23.206.189/somoytv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="super_cricket" tvg-name="SuperCricket" tvg-logo="" group-title="News Channel",SuperCricket
+#EXTINF:-1 tvg-id="super_cricket" tvg-name="SuperCricket" tvg-logo="" group-title="News Channel",FiFaNew26
 http://103.23.206.189/super-cricket/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="fifa" tvg-name="FiFa" tvg-logo="" group-title="FiFa26",SuperCricket
 https://totalsportek.eu.cc/api/stream?q=english
