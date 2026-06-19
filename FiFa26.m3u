@@ -18,3 +18,5 @@ http://103.23.206.189/btv/tracks-v1a1/mono.m3u8
 http://103.23.206.189/somoytv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="super_cricket" tvg-name="SuperCricket" tvg-logo="" group-title="News Channel",SuperCricket
 http://103.23.206.189/super-cricket/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="fifa" tvg-name="FiFa" tvg-logo="" group-title="FiFa26",SuperCricket
+https://totalsportek.eu.cc/api/stream?q=english
