@@ -6,20 +6,10 @@
 # 📺 Channels Count: 150+
 # 🔒 Usage: Personal / Educational
 #=================================
-#EXTINF:-1 tvg-id="somoy_tv" tvg-name="Somoy TV" tvg-logo="https://assets-prod.services.toffeelive.com//Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="News Channel",Somoy TV
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-#EXTINF:-1 tvg-id="super_cricket" tvg-name="SuperCricket" tvg-logo="" group-title="News Channel",SuperCricket
-http://103.23.206.189/super-cricket/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="fifa" tvg-name="FiFa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="FiFa26",FiFaNew26
-https://totalsportek.eu.cc/api/stream?q=english
-#EXTINF:-1 tvg-id="toffee" tvg-name="Toffee" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Toffee",Toffee
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_2000.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Go Live Sports B
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Go Live Sports
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", World Cup S1
 https://live05.msdht.app/live/24561735.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", World Cup S2
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Go Live Sports B
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", D Sports
@@ -56,3 +46,11 @@ http://103.23.206.189/tsportshd/tracks-v1a1/mono.m3u8
 http://103.23.206.189/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="somoy_tv" tvg-name="Somoy TV" tvg-logo="https://assets-prod.services.toffeelive.com//Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="News Channel",Somoy TV
 http://103.23.206.189/somoytv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="somoy_tv" tvg-name="Somoy TV" tvg-logo="https://assets-prod.services.toffeelive.com//Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="News Channel",Somoy TV
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 tvg-id="super_cricket" tvg-name="SuperCricket" tvg-logo="" group-title="News Channel",SuperCricket
+http://103.23.206.189/super-cricket/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="fifa" tvg-name="FiFa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="FiFa26",FiFaNew26
+https://totalsportek.eu.cc/api/stream?q=english
+#EXTINF:-1 tvg-id="toffee" tvg-name="Toffee" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Toffee",Toffee
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_2000.m3u8
