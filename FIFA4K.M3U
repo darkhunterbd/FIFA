@@ -1,0 +1,37 @@
+#EXTM3U
+#=================================
+# 🖥️ Developed by:SHOWROV
+# 🔗 Telegram: https://t.me/showrov_bd
+# 🕒 Last Updated:****** (BD Time)
+# 📺 Channels Count: *****
+# 🔒 Usage: Personal / Educational
+#=================================
+#EXTINF:-1, FOX USA
+#EXTVLCOPT:http-referrer=https://ritzembeds.pages.dev
+#EXTVLCOPT:http-origin=https://ritzembeds.pages.dev
+https://vinix.inproviszon.st/main/secure/189a1b9ccc398e383f3a909f7d56d57e898a7ac423a2c72d3d4075461d8c339f/1784060725/fox-usa.m3u8
+
+#EXTINF:-1, FOX 4K USA
+#EXTVLCOPT:http-referrer=https://ritzembeds.pages.dev
+#EXTVLCOPT:http-origin=https://ritzembeds.pages.dev
+https://vinix.inproviszon.st/main/secure/c4d713c5bef82857deb49af88d9905aadf75dbd4a74775090159227746ee5899/1784060861/fox4k-usa.m3u8
+
+#EXTINF:-1, Fussball TV 1 UHD DE
+#EXTVLCOPT:http-referrer=https://ritzembeds.pages.dev
+#EXTVLCOPT:http-origin=https://ritzembeds.pages.dev
+https://vinix.inproviszon.st/main/secure/1bcec1b7d0276b3020dcdd84aae9fc0001affe3ea44f2d9fd248468975327376/1784060895/fussballtv1uhd-de.m3u8
+
+#EXTINF:-1, TSN 4K
+#EXTVLCOPT:http-referrer=https://ritzembeds.pages.dev
+#EXTVLCOPT:http-origin=https://ritzembeds.pages.dev
+https://vinix.inproviszon.st/main/secure/d5f5d37dfca0ae9e8816b30a4b87c44af1db63821fc017343193645c5ad8be19/1784060915/tsn-4k.m3u8
+
+#EXTINF:-1, TSN 1 CA
+#EXTVLCOPT:http-referrer=https://ritzembeds.pages.dev
+#EXTVLCOPT:http-origin=https://ritzembeds.pages.dev
+https://vinix.inproviszon.st/main/secure/b2d72d6558119a1e3dbce179ff3878475f671d26b904c64af1cc7cd38aa554f9/1784060929/tsn1-ca.m3u8
+
+#EXTINF:-1, DAZN Mundial ES
+#EXTVLCOPT:http-referrer=https://ritzembeds.pages.dev
+#EXTVLCOPT:http-origin=https://ritzembeds.pages.dev
+https://vinix.inproviszon.st/main/secure/e37d9b9260820b71731946c6bd9e672d6023e679d1086b201ee32a53fd9a2fc5/1784060946/daznmundial-es.m3u8
